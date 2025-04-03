@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Hobbies and Ambition</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>prince WEBlog</h1>
+        <p>Exploring my hobbies and the ambition to succeed</p>
+    </header>
+
+    <section id="hobbies">
+        <h2>My Hobbies</h2>
+        <div class="hobby">
+            <h3>Playing Online Games</h3>
+            <p>I love playing online games because they help me build strategic thinking and teamwork skills, which are important in all aspects of life, including achieving my success.</p>
+        </div>
+        <div class="hobby">
+            <h3>Playing Basketball</h3>
+            <p>Basketball teaches me discipline and teamwork, which are essential traits for personal growth and success in any field.</p>
+        </div>
+        <div class="hobby">
+            <h3>Eating</h3>
+            <p>Though it may sound simple, enjoying food reminds me of the importance of balance and enjoyment in life. Eating well is key to staying energized, both mentally and physically, to pursue my ambitions.</p>
+        </div>
+    </section>
+
+    <section id="filipino-food">
+        <h2>Filipino Food I Love</h2>
+
+        <!-- Adobo -->
+        <div class="food">
+            <h3>Adobo</h3>
+            <img src="https://www.maggi.ph/sites/default/files/srh_recipes/41d16b3eb7ce08aba9e9114f304f5d87.jpg" alt="Adobo" width="300">
+            <p>Adobo is a popular Filipino dish made of meat, typically chicken or pork, marinated in soy sauce, vinegar, garlic, and various spices. It is rich in flavor and often served with rice.</p>
+        </div>
+
+        <!-- Pork Sisig -->
+        <div class="food">
+            <h3>Pork Sisig</h3>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Authentic_Kapampangan_Sisig.jpg" alt="Pork Sisig" width="300">
+            <p>Pork Sisig is a savory, spicy Filipino dish made from pork parts such as ears, cheeks, and snout. It is usually served on a sizzling plate and topped with egg and chili peppers.</p>
+        </div>
+
+        <!-- Sinigang -->
+        <div class="food">
+            <h3>Sinigang</h3>
+            <img src="https://www.maggi.ph/sites/default/files/srh_recipes/442ce059c4c490e1ab61cdaef9c98511.jpg" alt="Sinigang" width="300">
+            <p>Sinigang is a tangy, savory soup made with a variety of meats like pork, shrimp, or fish, and vegetables like kangkong (water spinach) and radish, cooked with tamarind for that signature sour taste.</p>
+        </div>
+
+        <!-- Pastil -->
+        <div class="food">
+            <h3>Pastil</h3>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Pastil_Mindanao1.jpg
+            " alt="Pastil" width="300">
+            <p>Pastil is a Filipino rice meal consisting of rice topped with marinated chicken or beef, wrapped in a banana leaf. It is often served as a snack or lunch and is known for its delicious and savory flavor.</p>
+        </div>
+    </section>
+
+    <!-- Disliked Foods -->
+    <section id="disliked-foods">
+        <h2>Foods I Don't Like</h2>
+
+        <!-- Salmon -->
+        <div class="food">
+            <h3>Salmon</h3>
+            <img src="https://www.recipetineats.com/tachyon/2021/03/Garlic-Butter-Salmon_9-SQ.jpg" alt="Salmon" width="300">
+            <p>Although salmon is often praised for its health benefits, I personally do not enjoy its flavor and texture. I prefer other types of fish.</p>
+        </div>
+
+        <!-- Kimchi -->
+        <div class="food">
+            <h3>Kimchi</h3>
+        <img src="https://cicili.tv/wp-content/uploads/2021/03/Kimchi2.jpg"alt="Kimchi" width="300">
+            <p>Kimchi, while a staple in Korean cuisine, is too strong and spicy for my taste. I find its fermented flavor difficult to enjoy.</p>
+        </div>
+    </section>
+
+    <section id="ambition">
+        <h2>My Ambition</h2>
+        <p>Personal Growth and self-improvement: Striving to continuously evolve as an individual, learning new skills, expanding knowledge, and becoming the best version of yourself.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 My Simple Blog | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
